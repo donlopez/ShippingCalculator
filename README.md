@@ -48,5 +48,5 @@ Enter 1 to continue or 0 to quit: 0
 
 Good-bye!
 
-
+This README provides all the necessary information to understand, compile, and use the Shipping Calculator program:
 This markdown text is ready to be included in a `README.md` file and uploaded to GitHub, providing a structured and informative description of the Shipping Calculator project, including how to compile and run the program.
