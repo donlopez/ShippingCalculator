@@ -37,7 +37,8 @@ To compile the program, use a C++ compiler with the following command:
 ```bash
 g++ -o shipping_calculator shipping_calculator.cpp
 ./shipping_calculator
-
+```
+```
 Sample Usage:
 
 Enter the number of Miles as a whole number: 1200
@@ -47,6 +48,7 @@ The cost to ship your package is: $14.80
 Enter 1 to continue or 0 to quit: 0
 
 Good-bye!
+```
 
 This README provides all the necessary information to understand, compile, and use the Shipping Calculator program:
 This markdown text is ready to be included in a `README.md` file and uploaded to GitHub, providing a structured and informative description of the Shipping Calculator project, including how to compile and run the program.
